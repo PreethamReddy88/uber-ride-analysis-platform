@@ -1,0 +1,30 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.env.*
+env/
+venv/
+ENV/
+.venv/
+
+# Secrets, keys, and credentials
+*credential*
+*secret*
+*password*
+*api_key*
+*.pem
+*.key
+.streamlit/secrets.toml
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
